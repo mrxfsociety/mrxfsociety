@@ -1,207 +1,68 @@
-<div align="center">
+<a href="https://alisher.bio">
+  <img src="./assets/banner.svg" width="100%" alt="Alisher Amirov — Founder · Developer · Cybersecurity">
+</a>
 
-# 👋 Hi, I'm Alisher Amirov
+<p align="center">
+  <a href="https://www.linkedin.com/in/alisheramirovl33t/"><img src="./assets/links/linkedin.svg" width="32%" alt="LinkedIn"></a>
+  <a href="https://alisher.bio"><img src="./assets/links/website.svg" width="32%" alt="Website — alisher.bio"></a>
+  <a href="https://t.me/mrx_fsociety"><img src="./assets/links/telegram.svg" width="32%" alt="Telegram — @mrx_fsociety"></a>
+  <a href="https://instagram.com/alisher_l33t"><img src="./assets/links/instagram.svg" width="32%" alt="Instagram"></a>
+  <a href="mailto:alisher.amirov032@gmail.com"><img src="./assets/links/email.svg" width="32%" alt="Email"></a>
+  <a href="https://alisher.bio/Alisher-Amirov-CV.pdf"><img src="./assets/links/resume.svg" width="32%" alt="Résumé (PDF)"></a>
+</p>
 
-### Founder · Software Developer · Cybersecurity
-
-**Building digital products, communities & security research.**
-
-<br>
-
-[![Website](https://img.shields.io/badge/🌐_ALISHER.BIO-Visit_Website-111111?style=for-the-badge)](https://alisher.bio)
-[![Telegram](https://img.shields.io/badge/Telegram-@mrx__fsociety-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrx_fsociety)
-
-<br>
-
-`ASTANA, KAZAKHSTAN`　•　`OPEN TO COLLABORATION`
-
-</div>
-
----
-
-## 01 — About me
-
-```text
-Founder        → AITUConnect · Sandagrip
-Focus          → Product · Software · Cybersecurity
-Education      → Astana IT University
-Location       → Astana, Kazakhstan
-Experience     → 5+ years building digital products
-```
+## 01 — About
 
 I build products at the intersection of **technology, security and community**.
+Right now I'm growing the **AITUConnect** ecosystem for university students and researching
+**encrypted traffic analysis** with Sandagrip.
 
-Currently, I'm developing the **AITUConnect ecosystem** for university students while exploring **encrypted traffic analysis and network security** through Sandagrip.
+```ts
+const alisher = {
+  role:       ["Founder", "Developer", "Cybersecurity student"],
+  building:   ["AITUConnect", "Sandagrip"],
+  studying:   "Information Systems Security @ Astana IT University",
+  location:   "Astana, Kazakhstan",
+  experience: "5+ years building digital products",
+  motto:      "Build things that solve real problems.",
+};
+```
 
-> **Build things that solve real problems.**
+## 02 — Projects
 
----
+<p align="center">
+  <a href="https://aituconnect.kz"><img src="./assets/card-aituconnect.svg" width="49%" alt="AITUConnect — Founder & CEO, 7,000+ students"></a>
+  <a href="https://sandagrip.com"><img src="./assets/card-sandagrip.svg" width="49%" alt="Sandagrip — Founder, AI-driven encrypted traffic analysis"></a>
+</p>
 
-## 02 — Current Projects
+## 03 — Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,php,html,css&theme=dark" alt="Languages"><br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mysql,postgres,docker,git,github,linux&theme=dark" alt="Development"><br><br>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,ae,pr&theme=dark" alt="Design">
+</p>
 
-### 🚀 AITUConnect
+## 04 — What I do
 
-**Founder & CEO**
-
-Digital ecosystem built around the everyday needs of university students.
-
-**7,000+ users**
-
-`Community` `Education` `Web Platform` `AI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Sandagrip
-
-**Founder**
-
-Research project exploring AI-driven analysis of encrypted network traffic.
-
-`Cybersecurity` `AI` `Networking` `Privacy`
-
-</td>
-</tr>
-</table>
-
----
-
-## 03 — Technologies
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,php,html,css&theme=dark" />
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,postgres,docker,git,github,linux&theme=dark" />
-
-### Design
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop,ae,pr&theme=dark" />
-
-</div>
-
----
-
-## 04 — What I Do
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 💻
-**Development**
-
-Web applications  
-Backend systems  
-Databases
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔐
-**Security**
-
-Web security  
-Traffic analysis  
-Network security
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-**Design**
-
-UI / UX  
-Graphic design  
-Product design
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-**Product**
-
-Startups  
-Communities  
-Digital products
-
-</td>
-</tr>
-</table>
-
----
+<img src="./assets/services.svg" width="100%" alt="Development: web applications, backend systems, databases · Security: web security, traffic analysis, network security · Design: UI/UX, graphic design, product design · Product: startups, communities, digital products">
 
 ## 05 — Journey
 
-```text
-2017 ─────── Visual Creator
-   │
-2019 ─────── STEP IT Academy
-   │
-2021 ─────── MorionAI
-   │
-2023 ─────── Game Development
-   │
-2024 ─────── Yeditepe University
-   │
-2025 ─────── AITUConnect
-   │          └── 7K+ ecosystem users
-   │
-2025 ─────── Astana IT University
-   │          └── Information Systems Security
-   │
-2026 ─────── Sandagrip
-   │
-   ▼
- TODAY       Building what's next...
-```
-
----
+<img src="./assets/journey.svg" width="100%" alt="Journey: 2017 Visual Creator → 2019 STEP IT Academy → 2021 MorionAI → 2023 Game Development → 2024 Yeditepe University → 2025 AITUConnect, Astana IT University → 2026 Sandagrip → now">
 
 ## 06 — GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CyberPersonality&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberPersonality&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=CyberPersonality&theme=github-dark-blue&hide_border=true&background=00000000" />
-
-</div>
-
----
-
-## 07 — Philosophy
-
-<div align="center">
-
-### “Building with the community, not only for it.”
-
-I believe the best technology starts with understanding  
-**real people and real problems.**
+<p align="center">
+  <img src="./profile/stats.svg" width="49%" alt="GitHub stats">
+  <img src="./profile/top-langs.svg" width="49%" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CyberPersonality&background=101216&border=25272B&stroke=25272B&ring=4389FF&fire=4389FF&currStreakNum=F4F6FA&sideNums=F4F6FA&currStreakLabel=8FB6FF&sideLabels=949BA8&dates=5F6672&border_radius=20" width="70%" alt="Contribution streak">
+</p>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ALISHER.BIO-white?style=for-the-badge&labelColor=111111)](https://alisher.bio)
-
-<br>
-
-**Alisher Amirov**
-
-`FOUNDER`　·　`DEVELOPER`　·　`CYBERSECURITY`
-
-</div>
+<a href="https://alisher.bio">
+  <img src="./assets/footer.svg" width="100%" alt="“Building with the community, not only for it.” — Alisher Amirov">
+</a>
