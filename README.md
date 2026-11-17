@@ -58,7 +58,7 @@ const alisher = {
   <img src="./profile/top-langs.svg" width="49%" alt="Top languages">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CyberPersonality&background=101216&border=25272B&stroke=25272B&ring=4389FF&fire=4389FF&currStreakNum=F4F6FA&sideNums=F4F6FA&currStreakLabel=8FB6FF&sideLabels=949BA8&dates=5F6672&border_radius=20" width="70%" alt="Contribution streak">
+  <img src="https://streak-stats.demolab.com?user=mrxfsociety&background=101216&border=25272B&stroke=25272B&ring=4389FF&fire=4389FF&currStreakNum=F4F6FA&sideNums=F4F6FA&currStreakLabel=8FB6FF&sideLabels=949BA8&dates=5F6672&border_radius=20" width="70%" alt="Contribution streak">
 </p>
 
 <br>
